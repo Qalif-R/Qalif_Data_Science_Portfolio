@@ -27,7 +27,3 @@ The data set used for this analysis provides profiles of  individual customers o
 ### [Project 5: Inventory Analysis: Tracking Sales Performance - Interactive Dashboard](https://github.com/Qalif-R/Churn-Analysis)
 Hammerhead hardware (HH) is a (fictitious) general accessories store with a global presence. Management of HH has requested for our advice on possible **improvements in inventory management and purchases**.
 This dashboard tracks the year to date sales of all items sold by Hammerhead Hardware, as well as inventory levels in their warehouse located in New Jersey, USA. We will introduced some metrics which HH can use to determine the products to prioritise in the next stock replenishment cycle.
-
-
-
-
