@@ -1,1 +1,7 @@
-# Qalif_Data_Science_Portfolio
+## Welcome to Qalif's Data Science Portfolio! 👋🏽
+I’m data scientist who is passionate in helping others make data driven decisions. I hold a Bsc drgree in Mathematics and Statistics from Imperial College London, and  a Msc degree in Computer Science from Univesity of Warwick. I also have 3+ years of experience working as a data analyst in the investment industry. When not digging through data for insights, you can find me either tutoring mathematics, or staying up to date with the lastest and greatest PC hardware.
+
+Thanks for taking the time to review my data science portfolio! It contains analyses utilising mathematical and statistical tools to help solve bussiness related problems. Please click on any of the project topics below to get started.
+
+### [Project 1: Predicting Credit Card Applications - Supervised Machine Learning](https://github.com/Qalif-R/Predicting_Credit_Card_Applications)
+Commercial banks have the task of deciding whether or not credit card applications are successful or not. The teams in charge have to make a judgement call based on the profile of the applicant. Applicants may be rejected for a variety of reasons; high loan balances, low income level and poor credit history are some of the typical reasons application are unsuccessful. Traditionally, these applications are reviewed manually, in a case-by-case fashion. Here, we will train a **(supervised) machine learning classifier** to predict the outcome of applications - eliminating the time-consuming process of manual reviews.
