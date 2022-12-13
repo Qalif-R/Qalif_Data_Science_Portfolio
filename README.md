@@ -2,10 +2,9 @@
 <img align="left" src="https://github.com/Qalif-R/Qalif_Data_Science_Portfolio/blob/main/profile_pic_.png?raw=true">
 I’m a data scientist who is passionate in helping others make data driven decisions. I hold a BSc degree in Mathematics and Statistics from Imperial College London, and  a MSc degree in Computer Science from University of Warwick. I also have 3+ years of experience working as a data analyst in the investment industry. When not digging through data for insights, you can find me either tutoring mathematics, or staying up to date with the latest and greatest PC hardware.\
 <br/>
-<br/>
+
 Thanks for taking the time to review my data science portfolio! It contains analyses utilising mathematical and statistical tools to help solve business related problems. Please click on any of the project topics below to get started.
 
-<br/>
 <br/>
 
 ### [Project 1: Predicting Credit Card Applications - Supervised Machine Learning](https://github.com/Qalif-R/Predicting_Credit_Card_Applications)
