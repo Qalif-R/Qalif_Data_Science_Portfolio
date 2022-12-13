@@ -7,7 +7,6 @@ Thanks for taking the time to review my data science portfolio! It contains anal
 
 <br/>
 <br/>
-<br/>
 
 ### [Project 1: Predicting Credit Card Applications - Supervised Machine Learning](https://github.com/Qalif-R/Predicting_Credit_Card_Applications)
 Commercial banks have the task of deciding whether or not credit card applications are successful or not. The teams in charge have to make a judgement call based on the profile of the applicant. Applicants may be rejected for a variety of reasons; high loan balances, low income level and poor credit history are some of the typical reasons application are unsuccessful. Traditionally, these applications are reviewed manually, in a case-by-case fashion. 
